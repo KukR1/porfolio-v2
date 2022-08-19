@@ -2,11 +2,12 @@ The 3D voxel dog is distributed under CC BY-NC-ND 4.0 (https://creativecommons.o
 You can't reuse it on your website.
 
 You can create your own website for free without notifying me by forking this project under the following condition:
- - Attribution: You must give appropriate credit, provide a link to my homepage (https://www.craftz.dog/).
- - For example: This website is built based on the <a href='https://www.craftz.dog/' target='_blank'>Nikitas Danilov's website</a>.
 
-Otherwise, the following license is applied to the source code:
-------
+- Attribution: You must give appropriate credit, provide a link to my homepage (https://portfolio-nik-danilov.vercel.app/).
+- For example: This website is built based on the <a href='https://portfolio-nik-danilov.vercel.app/' target='_blank'>Nikitas Danilov's website</a>.
+
+## Otherwise, the following license is applied to the source code:
+
 The MIT License (MIT)
 
 Copyright (c) 2022 Nikitas Danilov
