@@ -172,7 +172,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Link
-            href="https://drive.google.com/file/d/1yYa9lFzPpKcP40lpzrjgiA1z2gQXhUD8/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ncAQsDlvu9nlg9SREi2QckWsbBazcEFM/view?usp=sharing"
             target="_blank"
           >
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
