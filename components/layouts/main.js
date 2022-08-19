@@ -26,14 +26,14 @@ const Main = ({ children, router }) => {
         <meta name="twitter:creator" content="@nik-dani" />
         <meta
           name="twitter:image"
-          content="https://i.ibb.co/qFMNmgf/nd-portfolio-thumb.png"
+          content="https://cdn.dribbble.com/users/1981645/screenshots/10064959/media/ee91bb2e099aeb74b8e4093c477649d7.jpg"
         />
         <meta property="og:site_name" content="Nikitas Danilov" />
         <meta name="og:title" content="Nikitas Danilov" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://i.ibb.co/qFMNmgf/nd-portfolio-thumb.png"
+          content="https://cdn.dribbble.com/users/1981645/screenshots/10064959/media/ee91bb2e099aeb74b8e4093c477649d7.jpg"
         />
         <title>Nikitas Danilov - Homepage</title>
       </Head>
