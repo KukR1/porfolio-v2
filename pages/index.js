@@ -115,6 +115,17 @@ const Home = () => (
           </NextLink>
           &quot;, US - Remote
         </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Worked at &quot;
+          <NextLink
+            href="https://www.linkedin.com/company/leaflets-io/"
+            passHref
+          >
+            <Link target="_blank">Leaflets.io</Link>
+          </NextLink>
+          &quot;, Netherlands
+        </BioSection>
       </Section>
 
       <Section delay={0.3}>
@@ -172,7 +183,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Link
-            href="https://drive.google.com/file/d/1ncAQsDlvu9nlg9SREi2QckWsbBazcEFM/view?usp=sharing"
+            href="https://drive.google.com/file/d/1D-1sWkkmP4c64pyOKMS1TtNZousSLBOe/view?usp=sharing"
             target="_blank"
           >
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
