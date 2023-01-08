@@ -33,7 +33,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m a front-end developer based in Netherlands atm!
+        Hello 😃, I&apos;m a front-end developer based in Netherlands atm!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -75,10 +75,10 @@ const Home = () => (
           Intro
         </Heading>
         <Paragraph>
-          Nikita is a front-end developer based in Rotterdam at the moment with
-          a passion for building everything has to do with front-end tech. He
-          has a knack for all things launching products, from planning and
-          designing all the way to solving real-life problems with code.
+          Nikitas is a front-end developer, with a passion for building
+          everything has to do with front-end tech. He has a knack for all
+          things launching products, from planning and designing all the way to
+          solving real-life problems with code.
         </Paragraph>
       </Section>
 
