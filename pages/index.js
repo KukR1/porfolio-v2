@@ -72,7 +72,7 @@ const Home = () => (
 
       <Section delay={0.1}>
         <Heading as="h3" variant="section-title">
-          Work
+          Intro
         </Heading>
         <Paragraph>
           Nikita is a front-end developer based in Rotterdam at the moment with
@@ -84,7 +84,7 @@ const Home = () => (
 
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Bio
+          Bio & Work
         </Heading>
         <BioSection>
           <BioYear>1996</BioYear>
