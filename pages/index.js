@@ -96,6 +96,17 @@ const Home = () => (
           University as a Computer Scientist
         </BioSection>
         <BioSection>
+          <BioYear>2020</BioYear>
+          Intern at &quot;
+          <NextLink
+            href="https://www.linkedin.com/company/trippers-app/"
+            passHref
+          >
+            <Link target="_blank">Trippers.app</Link>
+          </NextLink>
+          &quot;, Monaco - Remote
+        </BioSection>
+        <BioSection>
           <BioYear>2021</BioYear>
           Worked at &quot;
           <NextLink
@@ -182,7 +193,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Link
-            href="https://drive.google.com/file/d/1D-1sWkkmP4c64pyOKMS1TtNZousSLBOe/view?usp=sharing"
+            href="https://drive.google.com/file/d/1dDT1lEipXLcm8iTEnwExBvkpTTqtT_HB/view?usp=sharing"
             target="_blank"
           >
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
