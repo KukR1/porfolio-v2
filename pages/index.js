@@ -1,3 +1,4 @@
+import React from 'react'
 import NextLink from 'next/link'
 import {
   Link,
@@ -193,7 +194,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Link
-            href="https://drive.google.com/file/d/1dDT1lEipXLcm8iTEnwExBvkpTTqtT_HB/view?usp=sharing"
+            href="https://drive.google.com/file/d/1p5_wYjVfmEHfoCmWlr-DKxi9-IsIkb01/view?usp=sharing"
             target="_blank"
           >
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">

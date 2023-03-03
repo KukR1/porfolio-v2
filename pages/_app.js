@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+import React from 'react'
 import Layout from '../components/layouts/main?v=1.2'
 import Fonts from '../components/fonts'
 import { AnimatePresence } from 'framer-motion'
